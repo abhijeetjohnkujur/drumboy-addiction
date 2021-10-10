@@ -1,3 +1,4 @@
+![MasterHead](https://i.ibb.co/j8byZhR/Portfolio-Banner.png)
 <h1 align="center">Hi 👋, I'm Abhijeet John Kujur</h1>
 <h3 align="center">A passionate frontend developer from Ranchi India, recently completed MCA from NIT Raipur.</h3>
 
