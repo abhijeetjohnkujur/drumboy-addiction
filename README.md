@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhijeet John Kujur</h1>
 <h3 align="center">A passionate frontend developer from Ranchi India, recently completed MCA from NIT Raipur.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drumboy-addiction" alt="drumboy-addiction" /></a> </p>
-
 - 🌱 I’m currently learning **Gatsby.js**
 
 - 👯 I’m looking to collaborate on **Frontend projects**
